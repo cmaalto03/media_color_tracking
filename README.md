@@ -5,7 +5,7 @@ https://github.com/cmaalto03/media_color_tracking/assets/79030806/c916eb3e-eff9-
 
 About:
 
-Live-stream color tracker built with OpenCV in Python. Used to track blue colors for childhood drawings, and green colors for older college-aged/adulthood drawings. I'm no artist myself, so I just doodled in the demo to demonstrate what the model is capable of. *SMOOTHENING NEEDED FOR NEXT VERSION* I used an internal, custom-built clock to keep track of generating the relevant words for each color, and ran two different Proccesses, one for the clock, and one for the video livestream Each word in the respective worldlist was generated with AI. 
+Live-stream color tracker built with OpenCV in Python. Used to track blue colors for childhood drawings, and green colors for older college-aged/adulthood drawings. I'm no artist myself, so I just doodled in the demo to demonstrate what the model is capable of. *SMOOTHENING NEEDED FOR NEXT VERSION* I used an internal, custom-built clock to keep track of generating the relevant words for each color, and ran two different Proccesses, one for the clock, and one for the video livestream. Each word in the respective worldlist was generated with AI. 
 
 I used Iriun webcam to stream the video from my iphone to my laptop.
 
